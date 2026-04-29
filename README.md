@@ -17,7 +17,12 @@ Voopee is not just another educational app; it’s a **fundamental shift in the 
 
 Our mission is to empower individuals to build their own unique paths to understanding, guided by their curiosity and supported by intelligent technology.
 
-### 3. Core Concepts & Key Features
+### 3. Theoretical Foundations
+The conceptual and philosophical foundations of the Voopee learning paradigm are explained in the following document:
+
+[**Read the Theoretical Foundations of the Voopee Learning Ecosystem**](docs/THEORETICAL_FOUNDATIONS.md)
+
+### 4. Core Concepts & Key Features
 Voopee is built on three foundational pillars:
 
 **A) Personalized Knowledge Graph**
@@ -47,12 +52,12 @@ Our system is built on a simple but powerful learning loop that turns curiosity 
 
 This loop ensures that every piece of knowledge is learned with purpose, has immediate application, and is internalized through guided discovery, not rote memorization.
 
-### 4. Vision & Mission
+### 5. Vision & Mission
 **Our Vision:** To create a world where anyone, anywhere, can be the **architect of their own education**, cultivating a lifelong love for learning and realizing their full intellectual potential.
 
 **Our Mission:** To build the foundational tools and ecosystem that make deep, self-directed learning accessible to all, replacing the obsolete model of centralized education with a resilient, decentralized, and personalized alternative.
 
-### 5. Proposed Technology Stack
+### 6. Proposed Technology Stack
 To bring this vision to life, we plan to leverage a modern, scalable, and AI-first technology stack. This is a preliminary outline to be finalized with the founding technical team.
 
 *   **Backend:** Python (with FastAPI or Django) for its robust AI/ML ecosystem.
@@ -61,7 +66,7 @@ To bring this vision to life, we plan to leverage a modern, scalable, and AI-fir
 *   **Frontend:** A modern JavaScript framework (like React or Vue.js) to create a highly interactive and intuitive user interface.
 *   **Deployment:** Docker, Kubernetes, and a major cloud provider (AWS/GCP) for scalability and reliability.
 
-### 6. High-Level Roadmap
+### 7. High-Level Roadmap
 This project is currently applying for the OSV Fellowship. The following 12-month plan outlines our path to a validated Proof of Concept.
 
 **Phase 1: Foundation & Strategic Design (Months 1-3)**
@@ -76,7 +81,7 @@ This project is currently applying for the OSV Fellowship. The following 12-mont
 *   Launch a private beta to validate core assumptions with real users.
 *   Gather initial data, analyze user interactions, and demonstrate the efficacy of the AI model.
 
-### 7. Get Involved
+### 8. Get Involved
 We are at the beginning of an ambitious and transformative journey. We are currently seeking a passionate and forward-thinking **Technical Co-founder (CTO)** to join our founding team and lead the technical development of the Voopee ecosystem.
 
 If you are an expert in AI and software architecture with a drive to revolutionize education, please get in touch.
