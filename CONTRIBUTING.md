@@ -1,4 +1,4 @@
-    # How to Contribute to Voopee
+  # How to Contribute to Voopee
 
     Thank you for your interest in contributing to Voopee! We are building an innovative adaptive learning ecosystem and appreciate your support.
 
