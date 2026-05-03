@@ -1,4 +1,5 @@
-### Voopee: The Living Knowledge Ecosystem
+## Living Knowledge Graph Whitepaper
+
 
 **Version 1.1 - May 2026**
 
