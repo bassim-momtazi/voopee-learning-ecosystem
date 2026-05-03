@@ -1,5 +1,5 @@
-[![Status: In Development](https://img.shields.io/badge/Status-In%20Development-blue)](./docs/ACTION_PLAN.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Status: In Development](https.img.shields.io/badge/Status-In%20Development-blue)](./docs/ACTION_PLAN.md)
+[![License: MIT](https.img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 # Voopee Learning Ecosystem
 
@@ -63,7 +63,7 @@ For a deeper dive into the project's architecture, philosophy, and execution pla
 
 ## Contributing
 
-We are actively seeking collaborators, researchers, developers, and educational visionaries to help build the future of learning. Please read our `CONTRIBUTING.md` file (coming soon) for details on how to get involved.
+We are actively seeking collaborators, researchers, developers, and educational visionaries to help build the future of learning. Please read our **[CONTRIBUTING.md](./CONTRIBUTING.md)** for details on how to get involved.
 
 ## License
 
