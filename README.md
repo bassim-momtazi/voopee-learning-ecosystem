@@ -1,4 +1,4 @@
-<a href="https://github.com/[bassim-momtazi]/[voopee-learning-ecosystem]">
+<a href="https://github.com/bassim-momtazi/voopee-learning-ecosystem">
     <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Status: In Development">
 </a>
 <a href="https://opensource.org/licenses/MIT">
