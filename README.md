@@ -1,6 +1,7 @@
 <a href="https://github.com/bassim-momtazi/voopee-learning-ecosystem">
-    <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Status: In Development">
+    <img src="https://img.shields.io/badge/Status-Conceptual-grey" alt="Status: Conceptual">
 </a>
+
 <a href="https://github.com/bassim-momtazi/voopee-learning-ecosystem/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
 </a>
