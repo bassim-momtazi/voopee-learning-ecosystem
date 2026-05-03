@@ -1,5 +1,6 @@
-[![Status: In Development](https.img.shields.io/badge/Status-In%20Development-blue)](./docs/ACTION_PLAN.md)
-[![License: MIT](https.img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange)](https://github.com/bassi/voopee)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 # Voopee Learning Ecosystem
 
