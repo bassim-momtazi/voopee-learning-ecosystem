@@ -1,5 +1,10 @@
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange)](https://github.com/bassi/voopee)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/[bassim-momtazi]/[voopee-learning-ecosystem]">
+    <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Status: In Development">
+</a>
+<a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
+</a>
+
 
 
 # Voopee Learning Ecosystem
